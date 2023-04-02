@@ -1,0 +1,14 @@
+.body {
+    font-family: 'Antic Slab', serif;
+    font-family: 'Inter', sans-serif;
+}
+
+.img__logo {
+    margin-top: 50px;
+    display: flex;
+}
+.button_buy {
+    padding-left: 5px;
+    padding-top: 5px;
+}
+

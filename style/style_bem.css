@@ -1,0 +1,54 @@
+.img__logo {
+    margin-top: 50px;
+    display: flex;
+}
+button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+.button_buy {
+    padding-left: 5px;
+}
+.body {
+    font-family: 'Antic Slab', serif;
+    font-family: 'Inter', sans-serif;
+}
+.contant {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 60px;
+}
+.contant__text {
+    padding-top: 50px;
+    font-size: 60px;
+    max-width: 542px;
+    font-weight: 400;
+    font-family: 'Antic Slab', serif;
+    font-family: 'Inter', sans-serif;
+    margin-left: 70px;
+}
+.img_contant {
+    margin-left: 20px;
+    max-width: 1096px;
+    max-height: 724px;
+    transform: translateX(90px);
+}
+.nav_contant li {
+    list-style-type: none;
+    font-style: light;
+    color: #5222D0;
+    font-size: 20px;
+}
+.contant_nav_wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+.header {
+    transform: translateY(-60px);
+}
+.text_content_left p{
+    font-family: Roboto Slab;
+    font-size: 20px;
+}
